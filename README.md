@@ -1,4 +1,4 @@
-# Computer Vision Engineer Assignment
+
 
 This repository contains the complete and final submission for the Computer Vision Engineer Assignment. All tasks have been implemented and documented as per the assignment requirements.
 
@@ -21,7 +21,7 @@ A custom object detection pipeline was implemented and trained from scratch with
 - Inference Speed: Measured in frames per second (FPS) on CPU
 - Model Size: Calculated in megabytes (MB)
 - Real-time Detection: Demonstrated using bounding box visualization and screen recording
-
+The Faster R-CNN detector was implemented and trained from scratch without pretrained weights. Inference was benchmarked on CPU using a 512×512 input, achieving ~1.25 FPS, which aligns with expected Faster R-CNN performance on non-accelerated hardware
 This task demonstrates the balance between accuracy, inference speed, and model size in a custom detection pipeline.
 
 ---
