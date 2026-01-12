@@ -94,6 +94,8 @@ Inference speed: ~1.25 FPS (CPU)
 
 
 This performance is consistent with expected Faster R-CNN behavior on non-accelerated hardware.
+
+
 Task 3 Note: A detailed design approach for a custom Vision-Language Model (VLM) for PCB inspection is discussed conceptually and can be extended as future work based on deployment constraints
 Notes on Evaluation
 
